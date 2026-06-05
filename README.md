@@ -75,6 +75,10 @@ Business questions answered:
 10. Revenue by Age Group
 
 ---
+## 📊 Dashboard Preview
+
+![Dashboard Preview](<img width="1360" height="727" alt="Customer_behaviour_analysis_dashboard " src="https://github.com/user-attachments/assets/eacfc3c5-6f94-4a57-af66-18d0b6e64d53" />
+)
 
 ## 📊 Power BI Dashboard
 
