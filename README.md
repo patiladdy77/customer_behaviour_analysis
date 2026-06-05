@@ -76,9 +76,9 @@ Business questions answered:
 
 ---
 ## 📊 Dashboard Preview
+![Dashboard Preview](Customer_behaviour_analysis_dashboard.png)
 
-![Dashboard Preview](<img width="1360" height="727" alt="Customer_behaviour_analysis_dashboard " src="https://github.com/user-attachments/assets/eacfc3c5-6f94-4a57-af66-18d0b6e64d53" />
-)
+
 
 ## 📊 Power BI Dashboard
 
